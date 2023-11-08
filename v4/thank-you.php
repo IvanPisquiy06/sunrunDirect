@@ -538,6 +538,7 @@
 	]);
     
     $responseDirect = curl_exec($curlDirect);
+    echo $responseDirect;
     curl_close($curlDirect);
 
     // Data to send to the API
@@ -606,7 +607,7 @@
     $dataEver = array(
         'nid' => 1006,
         'affid' => $sourceId,
-        'oid' => 1966,
+        'oid' => 1987,
         'amount' => $amount
     );
 
