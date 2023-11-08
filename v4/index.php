@@ -440,8 +440,8 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 offset-lg-2">
                     <div id="form-header" class="heading-survey">
-                        <h3>¡Obten tu cita gratis!</h3>
-                        <h4>!Llena este cuestionario para obtener tu cita gratis!</h4>
+                        <h3>Get your free quote!</h3>
+                        <h4>Take this questionnaire for your free quote!</h4>
                     </div>
                     <div class="banner-form-wrap">
                         <div class="progress_box">
@@ -450,22 +450,22 @@
                             </div>
                         </div>
                         <div id="loader" class="form_box">
-                            <h2><em>Por favor espere en lo que guardamos su información.</em></h2>
-                            <h2><em>No cierre esta ventana</em></h2>
+                            <h2><em>Please waite while we find your home.</em></h2>
+                            <h2><em>Don´t close this window</em></h2>
                             <p class="in-progress" data-timeout="1500">
-                                Encontrando su casa <span>..</span> <span class="status">listo</span>
+                                Finding your home <span>..</span> <span class="status">done</span>
                             </p>
                             <p class="in-progress" data-timeout="1500">
-                                Revisando estado de propiedad <span>..</span> <span class="status">listo</span>
+                                Checking the status of the property<span>..</span> <span class="status">done</span>
                             </p>
                             <p class="in-progress" data-timeout="1500">
-                                Analizando su factura de utilidades <span>..</span> <span class="status">listo</span>
+                                Analyzing your utility bill<span>..</span> <span class="status">done</span>
                             </p>
                             <p class="in-progress" data-timeout="1500">
-                                Revisando covertura de sol en su techo <span>..</span> <span class="status">listo</span>
+                                Checking your roof coverage<span>..</span> <span class="status">done</span>
                             </p>
                             <p class="in-progress">
-                                Localizando proveedores de Solar en su área <span>..</span>
+                                Finding solar providers on your area <span>..</span>
                             </p>
                             <div class="lds-ellipsis">
                                 <div></div>
@@ -483,7 +483,7 @@
                                     <div></div>
                                     <div></div>
                                 </div>
-                                <p><em>Por favor espere en lo que guardamos su información.</em></p>
+                                <p><em>Please wait while we save your information.</em></p>
                             </div>
                             <form id="msform" class="form" action="thank-you.php?" novalidate method="post">
                                 <input type="hidden" id="token" name="token" value="9741a0c84c1112244e3cce9df3fb31a17217692194c4cd5ffef12c033d5eb9f6">
